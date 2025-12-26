@@ -1,0 +1,2 @@
+This is written in w mode
+This is written in a mode
